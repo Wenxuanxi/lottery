@@ -50,5 +50,5 @@ var member=[
 {"phone":"No.49","name":"Rogin Joseph"},
 {"phone":"No.50","name":"Arun Chandran"},
 {"phone":"No.51","name":"AHMED KHOKAR"},
-{"phone":"No.52","name":"Mohamad Hamad"},
-];
+{"phone":"No.52","name":"Mohamad Hamad"}
+]
